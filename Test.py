@@ -1,3 +1,3 @@
-print("Hello UNCC");
+print("Hello UNC");
  
 
